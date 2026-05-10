@@ -1,4 +1,18 @@
 Second text file so far
 
 [200~new_project_third_file.txt
+new_project_third_file.tx^[[200~new_project_third_file.txt
+new_project_third_file.txt
+^[[200~new_project_third_file.txt
+new_project_third_file.txt
+
+^[[200~new_project_third_file.txt
+new_project_third_file.txt
+^[[200~new_project_third_file.txt
+new_project_third_file.tx^[[200~new_project_third_file.txt
+new_project_third_file.txt
+^[[200~new_project_third_file.txt
+new_project_third_file.txt
+
+^[[200~new_project_third_file.txt
 new_project_third_file.txt
