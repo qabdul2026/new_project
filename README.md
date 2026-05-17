@@ -6,6 +6,8 @@ Adding a line for rebasing example.
 
 More changes from myfeature branch too.
 
+Updaing for STASH stuff
+
 ## Introduction
 
 This is example to show different parts of the Git repository and various commands using a web project.
